@@ -1,0 +1,10 @@
+C:\Users\Martin Hengsberger\Documents\GitHub\CardGame\CardGame\CardGame.Log\bin\Debug\CardGame.Log.dll
+C:\Users\Martin Hengsberger\Documents\GitHub\CardGame\CardGame\CardGame.Log\bin\Debug\CardGame.Log.pdb
+C:\Users\Martin Hengsberger\Documents\GitHub\CardGame\CardGame\CardGame.Log\obj\Debug\CardGame.Log.dll
+C:\Users\Martin Hengsberger\Documents\GitHub\CardGame\CardGame\CardGame.Log\obj\Debug\CardGame.Log.pdb
+C:\Users\Martin Hengsberger\Documents\GitHub\CardGame\CardGame\CardGame.Log\obj\Debug\CardGame.Log.csprojResolveAssemblyReference.cache
+C:\Users\Chris72\Documents\Visual Studio 2015\Projects\CardGameLap\CardGame\CardGame.Log\bin\Debug\CardGame.Log.dll
+C:\Users\Chris72\Documents\Visual Studio 2015\Projects\CardGameLap\CardGame\CardGame.Log\bin\Debug\CardGame.Log.pdb
+C:\Users\Chris72\Documents\Visual Studio 2015\Projects\CardGameLap\CardGame\CardGame.Log\obj\Debug\CardGame.Log.csprojResolveAssemblyReference.cache
+C:\Users\Chris72\Documents\Visual Studio 2015\Projects\CardGameLap\CardGame\CardGame.Log\obj\Debug\CardGame.Log.dll
+C:\Users\Chris72\Documents\Visual Studio 2015\Projects\CardGameLap\CardGame\CardGame.Log\obj\Debug\CardGame.Log.pdb
